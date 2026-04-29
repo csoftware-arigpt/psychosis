@@ -79,14 +79,6 @@ Switch via env, or at runtime in **⚙️ Settings → LLM backend**.
 | `OPENAI_BASE_URL` | — | Optional (proxy / Azure / OpenRouter) |
 | `ANTHROPIC_API_KEY` | — | Anthropic key |
 
-## Origins
-
-- Live-chat split + multi-message rhythm — ported from
-  `psychosis-legacy/penesnakata/bot.py`.
-- Streamlit scaffold + AI Mode selectbox — from the old `psychosis/main.py`
-  (fully rewritten).
-- Screening instruments — public domain (PHQ, GAD, PCL, AUDIT, MDQ).
-
 ## Disclaimer
 
 Not a clinical tool. Do not use it to diagnose or treat. If something hurts,
